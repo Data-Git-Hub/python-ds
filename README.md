@@ -124,5 +124,6 @@ Contributors names and contact info <br>
 ---
 
 ## Version History
-- P2 Init - 0.0 - Init Modify python-de.ipynb, README.md 
+- P2 Sect - 2.0 - Modify Section 1. python-ds.ipynb, README.md
+- P2 Init - 0.0 - Modify python-ds.ipynb, README.md 
 ## Test History 
