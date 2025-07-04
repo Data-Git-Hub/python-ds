@@ -124,9 +124,10 @@ Contributors names and contact info <br>
 ---
 
 ## Version History
+- P2 Finl - 0.1 - Create python-ds.html, S576977.html
 - P2 Finl - 0.0 - Modify python-ds.ipynb, README.md
 - P2 Init - 0.2 - Modify Section 10. S576977.ipynb, README.md
-- P2 Init - 0.1 - Add S576977.ipynb, Modify Section 10. S576977.ipynb, README.md
+- P2 Init - 0.1 - Create S576977.ipynb, Modify Section 10. S576977.ipynb, README.md
 - P2 Sect - 9.0 - Modify Section 9. python-ds.ipynb, README.md
 - P2 Sect - 8.0 - Modify Section 8. python-ds.ipynb, README.md
 - P2 Sect - 7.0 - Modify Section 7. python-ds.ipynb, README.md
@@ -135,6 +136,6 @@ Contributors names and contact info <br>
 - P2 Sect - 4.0 - Modify Section 4. python-ds.ipynb, README.md
 - P2 Sect - 3.0 - Modify Section 3. python-ds.ipynb, README.md
 - P2 Sect - 2.0 - Modify Section 2. python-ds.ipynb, README.md
-- P2 Init - 0.0 - Modify python-ds.ipynb, README.md 
+- P2 Init - 0.0 - Create python-ds.ipynb, README.md 
 ## Test History 
 - P2 Test - 0.1 - Ran All
