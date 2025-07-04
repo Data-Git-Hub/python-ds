@@ -124,6 +124,7 @@ Contributors names and contact info <br>
 ---
 
 ## Version History
+- P2 Finl - 0.0 - Modify python-ds.ipynb, README.md
 - P2 Init - 0.2 - Modify Section 10. S576977.ipynb, README.md
 - P2 Init - 0.1 - Add S576977.ipynb, Modify Section 10. S576977.ipynb, README.md
 - P2 Sect - 9.0 - Modify Section 9. python-ds.ipynb, README.md
