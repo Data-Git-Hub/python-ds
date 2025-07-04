@@ -124,6 +124,7 @@ Contributors names and contact info <br>
 ---
 
 ## Version History
+- P2 Sect - 7.0 - Modify Section 7. python-ds.ipynb, README.md
 - P2 Sect - 6.0 - Modify Section 6. python-ds.ipynb, README.md 
 - P2 Sect - 5.0 - Modify Section 5. python-ds.ipynb, README.md 
 - P2 Sect - 4.0 - Modify Section 4. python-ds.ipynb, README.md
