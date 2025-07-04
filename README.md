@@ -79,6 +79,10 @@ git push -u origin main
 
 ---
 
+Export Using Jupyter Menu via VS Code was utilized for HTML exports.
+
+---
+
 ### Introduction
 
 ### Tasks
@@ -124,6 +128,7 @@ Contributors names and contact info <br>
 ---
 
 ## Version History
+- P2 Finl - 0.2 - Add README.md
 - P2 Finl - 0.1 - Create python-ds.html, S576977.html
 - P2 Finl - 0.0 - Modify python-ds.ipynb, README.md
 - P2 Init - 0.2 - Modify Section 10. S576977.ipynb, README.md
